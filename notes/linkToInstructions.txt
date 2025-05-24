@@ -1,0 +1,1 @@
+https://codesandbox.io/p/sandbox/vue-draggable-resizable-disable-drag-resize-forked-stpguk?file=%2Fsrc%2FApp.vue%3A28%2C18
